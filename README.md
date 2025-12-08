@@ -37,7 +37,9 @@
   <img src="https://img.shields.io/badge/LinkedIn-9BC3FF?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-[![Email Badge](https://img.shields.io/badge/Email-F8B4C4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spencer.tuyuyao@gmail.com)
+<a href="mailto:spencer.tuyuyao@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-F8B4C4?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 ---
 
