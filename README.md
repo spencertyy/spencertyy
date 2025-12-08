@@ -38,7 +38,7 @@
 </a>
 
 <a href="mailto:spencer.tuyuyao@gmail.com">
-  <img src="https://img.shields.io/badge/Email-F8B4C4?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img alt="Email" src="https://img.shields.io/badge/Email-F8B4C4?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 ---
