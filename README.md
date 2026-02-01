@@ -1,6 +1,6 @@
 <h1 align="center">Hi ♡ I'm Spencer</h1>
 <p align="center">
-Frontend-focused Developer · Software Development Graduate · Creative Builder
+Software Development Graduate · Creative Builder
 </p>
 
 ---
@@ -8,7 +8,6 @@ Frontend-focused Developer · Software Development Graduate · Creative Builder
 ## 🌿 About Me
 
 - 🎓 Master of Software Development graduate from the University of Utah  
-- 🌱 Frontend-focused developer with a non-traditional background  
 - 💅 Founder of **Urban Studio Nails** — built and manage a full Shopify-based e-commerce website  
 - ✨ Enjoy building clean, intuitive, and user-friendly interfaces  
 - 🐾 Based in the US  
