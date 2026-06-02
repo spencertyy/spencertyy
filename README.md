@@ -1,4 +1,4 @@
-# Hi, I'm Spencer 👋
+ Hi, I'm Spencer 👋
 
 MS in Software Development @ University of Utah (Dec 2024)  
 I like building things — from interactive frontends to backend systems.
